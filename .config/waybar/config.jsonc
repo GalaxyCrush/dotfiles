@@ -19,7 +19,7 @@
         "network",
         "cpu",
         "memory",
-        "temperature",
+        "custom/weather",
         "hyprland/language",
         "battery",
         "battery#bat2",
@@ -29,10 +29,5 @@
     //Modules configuration
     "include": [
         "~/.config/waybar/modules.json"
-    ],
-    "custom/power": {
-        "format": "⏻",
-        "tooltip": "Power options",
-        "on-click": "~/.config/waybar/powermenu.sh"
-    }
+    ]
 }

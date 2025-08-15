@@ -3,15 +3,6 @@
 
 #export ZSH="$HOME/.oh-my-zsh"
 
-ZSH_THEME="agnosterzak"
-
-plugins=(
-    git
-    archlinux
-    zsh-autosuggestions
-    zsh-syntax-highlighting
-)
-
 #source $ZSH/oh-my-zsh.sh
 source /usr/share/zsh/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh

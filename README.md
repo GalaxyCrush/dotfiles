@@ -15,9 +15,9 @@ To fully use these dotfiles, you may need to install some of the following tools
 - **Hyprland** (Wayland compositor)
 - **Waybar** (status bar)
 - **Wofi** (application launcher)
-- **Mako** or **Dunst** (notifications)
-- **Swww** and **Hyprpaper** (wallpaper manager)
-- **Zsh** + **Oh My Zsh** + **Starship** (shell and framework)
+- **Mako** (notifications)
+- **Swww** or **Hyprpaper** or **mpvpaper** (wallpaper manager)
+- **Zsh** + **Starship** (shell and framework)
 - **Nerd Fonts** (icons and symbols)
 - **LXAppearance** (GTK theme settings)
 - **Papirus** and **Catppuccin** (icon packs)
@@ -48,4 +48,3 @@ stow zsh
 
 - Some configurations may require extra dependencies or fonts.
 - Adapt freely to your own workflow.
-- This setup is designed for my personal use but shared for reference.
