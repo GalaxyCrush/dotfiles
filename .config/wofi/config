@@ -1,0 +1,5 @@
+[wofi]
+width = 600
+show-icons = true
+allow_images=true
+no_actions=true
