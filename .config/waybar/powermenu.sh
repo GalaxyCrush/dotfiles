@@ -1,6 +1,6 @@
 #!/bin/bash
 
-choice=$(echo -e "Shutdown\nReboot\nSuspend" | wofi --dmenu --prompt "Power")
+choice=$(echo -e "Shutdown\nReboot\nSuspend" | ~/.config/wofi/prompt.sh)
 
 case "$choice" in
   Shutdown) systemctl poweroff ;;

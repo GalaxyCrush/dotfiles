@@ -42,3 +42,5 @@ SAVEHIST=10000
 setopt appendhistory
 
 eval "$(starship init zsh)"
+
+export PATH=$PATH:/home/galaxy/.spicetify
