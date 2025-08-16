@@ -37,13 +37,6 @@ Use GNU Stow to link a config:
 stow <folder-name>
 ```
 
-Example:
-
-```bash
-stow hypr
-stow zsh
-```
-
 ### Notes
 
 - Some configurations may require extra dependencies or fonts.
