@@ -21,6 +21,7 @@ To fully use these dotfiles, you may need to install some of the following tools
 - **Nerd Fonts** (icons and symbols)
 - **LXAppearance** (GTK theme settings)
 - **Papirus** and **Catppuccin** (icon packs)
+- **Noctalia-Shell**
 
 ## Installation
 
